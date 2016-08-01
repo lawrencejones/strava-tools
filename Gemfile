@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'oauth'
+gem 'sinatra'
+gem 'pry'
+gem 'unirest'
+gem 'strava-api-v3'
+gem 'prius'
+gem 'activesupport'
+gem 'rspec'
